@@ -1,0 +1,3 @@
+[submodule "incomplete-trading-bot"]
+	path = incomplete-trading-bot
+	url = https://github.com/theincompleteguide/incomplete-trading-bot.git
